@@ -20,6 +20,9 @@
   "dependencies": {
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
+    "@react-native-firebase/app": "^20.1.0",
+    "@react-native-firebase/auth": "^20.1.0",
+    "@react-native-firebase/firestore": "^20.1.0",
     "expo": "~51.0.14",
     "expo-status-bar": "~1.12.1",
     "firebase": "^10.12.2",
