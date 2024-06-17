@@ -1,5 +1,6 @@
 {
   "expo": {
+    "platforms": ["ios", "android", "web"],
     "name": "katarinabluu_love",
     "slug": "katarinabluu_love",
     "version": "1.0.0",
@@ -15,7 +16,6 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.example.katarinabluu_love",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
