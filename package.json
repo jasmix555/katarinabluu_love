@@ -15,7 +15,7 @@
     "lint:fix": "eslint . --fix",
     "check": "echo check",
     "type-check": "tsc --noEmit",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "dependencies": {
     "@commitlint/cli": "^19.3.0",
