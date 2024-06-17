@@ -1,5 +1,5 @@
 ---
-name: Chore
+name: Chore Report
 about: General maintenance or operational tasks
 title: '[CHORE] '
 labels: chore
